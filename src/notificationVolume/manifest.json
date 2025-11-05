@@ -7,7 +7,7 @@
     "name": "Notification Volume",
     "tagline": "Separate UI/Notification sound volume to avoid ear bleeding",
     "authors": ["KittiBytes"],
-    "source": "https://github.com/kittibytess/moonlight-extensions",
+    "source": "https://github.com/kittibyte/moonlight-extensions",
     "donate": "https://ko-fi.com/kittibytes",
     "tags": ["qol", "fixes"],
     "changelog": "Fix for latest Discord"

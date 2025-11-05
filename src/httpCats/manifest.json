@@ -7,7 +7,7 @@
     "name": "HTTP Cats",
     "tagline": "Post a cat image from https://http.cat/ using /httpcats depending on the status code",
     "authors": ["KittiBytes"],
-    "source": "https://github.com/kittibytess/moonlight-extensions",
+    "source": "https://github.com/kittibyte/moonlight-extensions",
     "donate": "https://ko-fi.com/kittibytes",
     "tags": ["chat", "commands", "fun"]
   },
